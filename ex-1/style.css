@@ -1,1 +1,15 @@
 /* start coding here */
+input{
+    height: 50px; /* กำหนด Style ของ Input ให้มี Height 50px และ Width 240px */
+    width: 240px; /* กำหนด Style ของ Input ให้มี Height 50px และ Width 240px */
+    border-radius: 3px; /*กำหนด Style ของ Input ให้มี Border Radius 3px*/
+}
+
+button{
+    width: 120px; /*กำหนด Style ของ Button ให้มี Width 120px และ Height 36px*/
+    height: 36px; /*กำหนด Style ของ Button ให้มี Width 120px และ Height 36px*/
+    border-color: lightgrey; /*กำหนด Style ของ Button ให้มีสีของขอบปุ่มเป็นสี lightgrey*/
+    background-color: khaki; /*กำหนด Style ของ Button มีสีพื้นหลังเป็นสี khaki*/
+
+}
+
